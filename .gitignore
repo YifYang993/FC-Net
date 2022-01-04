@@ -1,0 +1,8 @@
+venv/*
+*.pyc
+__pycache__/
+**/__pycache__/
+dataProcess/*
+test/
+dataloader/*
+pretrained/*
